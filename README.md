@@ -1,1 +1,1 @@
-# arProject_V0.1
+# Augmented Reality Project Version 0.1
